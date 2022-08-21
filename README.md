@@ -8,7 +8,7 @@ Multilanguage a bot to fight bad habits
 ## ENG
 Bot will monitor your bad habits, and help you gradually give them up. 
 
-MVP: Smoking cessation
+Smoking cessation
 1. Monitor how often the user smokes and find out the price of the user's cigarettes
 You need to mark every cigarette you smoke for 3 days
 
@@ -38,7 +38,7 @@ Statistics among friends, by city, by country, by world for competitive spirit
 ## RUS
 Бот будет мониторить ваши вредные привычки, и помогать постепенно отказываться от них. 
 
-MVP: Отказ от курения
+Отказ от курения
 1. Мониторинг как часто пользователь курит и узнает цену сигарет пользователя
 Нужно отмечать каждую выкуренную сигарету на протяжении 3 дней
 
